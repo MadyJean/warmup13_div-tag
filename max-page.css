@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(174, 227, 209);
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+main{
+    background-color: aquamarine;
+    padding: 40px;
+}
+.wrapper{
+    max-width: 600px;
+    margin: auto;
+}
